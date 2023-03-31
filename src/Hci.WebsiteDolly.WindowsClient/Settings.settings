@@ -1,0 +1,54 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Hci.WebsiteDolly.WindowsClient" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="DestinationFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Hunter Concepts\Website Dolly\</Value>
+    </Setting>
+    <Setting Name="ImageFolderName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">images</Value>
+    </Setting>
+    <Setting Name="StylesheetFolderName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">stylesheets</Value>
+    </Setting>
+    <Setting Name="ScriptFolderName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">scripts</Value>
+    </Setting>
+    <Setting Name="VideoFolderName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">videos</Value>
+    </Setting>
+    <Setting Name="OpenSource" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="OpenDestination" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="ExploreDestination" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="SourceShortcut" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="ClearDestination" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="LoggingEnabled" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="LoggingPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Hunter Concepts\Website Dolly\Log</Value>
+    </Setting>
+    <Setting Name="CompareFiles" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="SeparateFiles" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="LicenseKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="UserFolders" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

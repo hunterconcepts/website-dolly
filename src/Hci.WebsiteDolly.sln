@@ -1,0 +1,82 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hci.WebsiteDolly.WindowsClient", "Hci.WebsiteDolly.WindowsClient\Hci.WebsiteDolly.WindowsClient.csproj", "{AD00BD57-7521-4E23-B086-0A76871F3E82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nfg.Import.WebSkin", "..\_nfg\Nfg.Import.WebSkin.csproj", "{466143C3-3608-4288-82FC-11EE8FD545C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hci.WebsiteDolly", "Hci.WebsiteDolly.Core\Hci.WebsiteDolly.csproj", "{C0F67384-FCFD-4A5A-B771-AE5D105B8863}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hci.KeyGenerator", "..\..\keygenerator\Hci.KeyGenerator\Hci.KeyGenerator.csproj", "{890BC9E6-C9C3-4997-83C6-E1AF89F9C912}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Hci.WebsiteDolly.Setup", "Hci.WebsiteDolly.Setup\Hci.WebsiteDolly.Setup.vdproj", "{81822FFD-B648-49B9-A5D8-FA4B5F54DED4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD00BD57-7521-4E23-B086-0A76871F3E82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD00BD57-7521-4E23-B086-0A76871F3E82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD00BD57-7521-4E23-B086-0A76871F3E82}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{AD00BD57-7521-4E23-B086-0A76871F3E82}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{AD00BD57-7521-4E23-B086-0A76871F3E82}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{AD00BD57-7521-4E23-B086-0A76871F3E82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD00BD57-7521-4E23-B086-0A76871F3E82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD00BD57-7521-4E23-B086-0A76871F3E82}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{AD00BD57-7521-4E23-B086-0A76871F3E82}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{AD00BD57-7521-4E23-B086-0A76871F3E82}.Release|x86.ActiveCfg = Release|Any CPU
+		{466143C3-3608-4288-82FC-11EE8FD545C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{466143C3-3608-4288-82FC-11EE8FD545C9}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{466143C3-3608-4288-82FC-11EE8FD545C9}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{466143C3-3608-4288-82FC-11EE8FD545C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{466143C3-3608-4288-82FC-11EE8FD545C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{466143C3-3608-4288-82FC-11EE8FD545C9}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{466143C3-3608-4288-82FC-11EE8FD545C9}.Release|x86.ActiveCfg = Release|Any CPU
+		{C0F67384-FCFD-4A5A-B771-AE5D105B8863}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0F67384-FCFD-4A5A-B771-AE5D105B8863}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0F67384-FCFD-4A5A-B771-AE5D105B8863}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{C0F67384-FCFD-4A5A-B771-AE5D105B8863}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{C0F67384-FCFD-4A5A-B771-AE5D105B8863}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C0F67384-FCFD-4A5A-B771-AE5D105B8863}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0F67384-FCFD-4A5A-B771-AE5D105B8863}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0F67384-FCFD-4A5A-B771-AE5D105B8863}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{C0F67384-FCFD-4A5A-B771-AE5D105B8863}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{C0F67384-FCFD-4A5A-B771-AE5D105B8863}.Release|x86.ActiveCfg = Release|Any CPU
+		{890BC9E6-C9C3-4997-83C6-E1AF89F9C912}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{890BC9E6-C9C3-4997-83C6-E1AF89F9C912}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{890BC9E6-C9C3-4997-83C6-E1AF89F9C912}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{890BC9E6-C9C3-4997-83C6-E1AF89F9C912}.Debug|x86.ActiveCfg = Debug|x86
+		{890BC9E6-C9C3-4997-83C6-E1AF89F9C912}.Debug|x86.Build.0 = Debug|x86
+		{890BC9E6-C9C3-4997-83C6-E1AF89F9C912}.Release|Any CPU.ActiveCfg = Release|x86
+		{890BC9E6-C9C3-4997-83C6-E1AF89F9C912}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{890BC9E6-C9C3-4997-83C6-E1AF89F9C912}.Release|Mixed Platforms.Build.0 = Release|x86
+		{890BC9E6-C9C3-4997-83C6-E1AF89F9C912}.Release|x86.ActiveCfg = Release|x86
+		{890BC9E6-C9C3-4997-83C6-E1AF89F9C912}.Release|x86.Build.0 = Release|x86
+		{81822FFD-B648-49B9-A5D8-FA4B5F54DED4}.Debug|Any CPU.ActiveCfg = Debug
+		{81822FFD-B648-49B9-A5D8-FA4B5F54DED4}.Debug|Mixed Platforms.ActiveCfg = Debug
+		{81822FFD-B648-49B9-A5D8-FA4B5F54DED4}.Debug|x86.ActiveCfg = Debug
+		{81822FFD-B648-49B9-A5D8-FA4B5F54DED4}.Release|Any CPU.ActiveCfg = Release
+		{81822FFD-B648-49B9-A5D8-FA4B5F54DED4}.Release|Mixed Platforms.ActiveCfg = Release
+		{81822FFD-B648-49B9-A5D8-FA4B5F54DED4}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		VisualSVNWorkingCopyRoot = .
+	EndGlobalSection
+	GlobalSection(VaultVsipSolution-v2) = preSolution
+		VaultHost = http://huntedge/vaultservice/
+		VaultRepositoryID = 1
+		VaultRepositoryGUID = 64b04125-b00d-415b-b623-9ddf07371b46
+		ProjectCount = 2
+		ProjectRelativeDiskPath1 = Hci.WebsiteDolly.WindowsClient\Hci.WebsiteDolly.WindowsClient.csproj
+		ProjectRelativeDiskPath2 = Hci.WebsiteDolly.Core\Hci.WebsiteDolly.csproj
+	EndGlobalSection
+EndGlobal
